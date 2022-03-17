@@ -51,10 +51,15 @@ const Article = (props) => {
       </div>
       <h3>{props.title}</h3>
       <div className='project_item_cta'>
-        <a href={props.github} className='btn' target='_blank'>
+        <a href={props.github} className='btn' target='_blank' rel='noreferrer'>
           Github
         </a>
-        <a href={props.demo} className='btn btn-primary' target='_blank'>
+        <a
+          href={props.demo}
+          className='btn btn-primary'
+          target='_blank'
+          rel='noreferrer'
+        >
           Live Demo
         </a>
       </div>

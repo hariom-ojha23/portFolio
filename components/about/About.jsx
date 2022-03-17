@@ -36,14 +36,11 @@ const About = () => {
           <p>
             Hello! My name is Hari om Ojha. I lived in Delhi and currently
             pursuing B.Tech in Computer Science and Engineering from Galgotias
-            University. Lorem Ipsum is simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's standard
-            dummy text ever since the 1500s, when an unknown printer took a
-            galley of type and scrambled it to make a type specimen book.
+            University.
           </p>
 
           <a href='#contact' className='btn btn-primary'>
-            Let's Talk
+            Let&apos;s Talk
           </a>
         </div>
       </div>
