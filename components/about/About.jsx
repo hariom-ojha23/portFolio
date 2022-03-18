@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaAward } from 'react-icons/fa'
-import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
 
 const About = () => {
@@ -36,7 +35,11 @@ const About = () => {
           <p>
             Hello! My name is Hari om Ojha. I lived in Delhi and currently
             pursuing B.Tech in Computer Science and Engineering from Galgotias
-            University.
+            University. I am a Full Stack Developer. I have hands on experience
+            designing, building and implementing applications using a range of
+            technologies like React, Node, Express, MongoDB, React-Native, MySQL
+            etc. I am very passionate about learning new technologies and
+            applying my kowledge to develop real world applications.
           </p>
 
           <a href='#contact' className='btn btn-primary'>
